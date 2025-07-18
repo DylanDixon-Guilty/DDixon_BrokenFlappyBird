@@ -15,8 +15,8 @@ public class Bird : MonoBehaviour
     public AudioClip WingAudio; // The sound when the player jumps
     public static bool IsAlive = false;
     public float maxJumpVelocity = 5f;
-    public float maxUpwardAngle = 45f;     
-    public float maxDownwardAngle = -90f;  
+    public float maxUpwardAngle = 45f;
+    public float maxDownwardAngle = -90f;
     public float rotationLerpSpeed = 5f;
     public float gravityScale = 3f;
 
@@ -58,28 +58,28 @@ public class Bird : MonoBehaviour
     {
         float verticalVelocity = birdRB.linearVelocity.y;
 
-        float t = 0f;
+        float rotation = 0f;
         if (verticalVelocity > 0)
         {
-            t = Mathf.InverseLerp(0, maxJumpVelocity, verticalVelocity);
+            rotation = Mathf.InverseLerp(0, maxJumpVelocity, verticalVelocity);
         }
         else
         {
-            t = Mathf.InverseLerp(0, -maxJumpVelocity, verticalVelocity);
-            if (t < 0)
+            rotation = Mathf.InverseLerp(0, -maxJumpVelocity, verticalVelocity);
+            if (rotation < 0)
             {
-                t = 0;
+                rotation = 0;
             }
         }
         float targetAngle = 0f;
 
         if(verticalVelocity > 0)
         {
-            targetAngle = Mathf.Lerp(0, maxUpwardAngle, t);
+            targetAngle = Mathf.Lerp(0, maxUpwardAngle, rotation);
         }
         else
         {
-            targetAngle = Mathf.Lerp(0, maxDownwardAngle, t);
+            targetAngle = Mathf.Lerp(0, maxDownwardAngle, rotation);
         }
         
         float currentZ = transform.eulerAngles.z;
