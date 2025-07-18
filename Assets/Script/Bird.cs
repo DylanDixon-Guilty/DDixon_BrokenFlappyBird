@@ -5,11 +5,10 @@ public class Bird : MonoBehaviour
 {
     private Rigidbody2D birdRB;
     private Animator birdAnimator;
-
-    private bool isAlive = false;
     private Vector3 initialBirdPosition;
     private Quaternion initialBirdRotation;
 
+    public static bool IsAlive = false;
     public float maxJumpVelocity = 5f;
     public float maxUpwardAngle = 45f;     
     public float maxDownwardAngle = -90f;  
@@ -32,7 +31,7 @@ public class Bird : MonoBehaviour
 
     void Update()
     {
-        if (isAlive)
+        if (IsAlive)
         {
             if (Input.GetButton("Jump") || Input.GetButton("Fire1"))
             {
@@ -93,14 +92,14 @@ public class Bird : MonoBehaviour
 
     public void StartGame()
     {
-        isAlive = true;
+        IsAlive = true;
         birdRB.gravityScale = gravityScale;
         birdRB.linearVelocity = Vector2.zero;
     }
 
     public void ResetBird()
     {
-        isAlive = false;
+        IsAlive = false;
         birdRB.gravityScale = 0f;
         transform.position = initialBirdPosition;
         transform.rotation = initialBirdRotation;
@@ -108,7 +107,7 @@ public class Bird : MonoBehaviour
 
     public void Die()
     {
-        isAlive = false;
+        IsAlive = false;
         birdRB.linearVelocity = Vector2.zero;
         GameManager.Instance.GameOver();
     }
