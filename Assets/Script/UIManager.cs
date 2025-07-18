@@ -10,22 +10,24 @@ public class UIManager : MonoBehaviour
     public GameObject GameOverScreen;
     public GameObject ScoreUI;
 
+    /// <summary>
+    /// When passing through a Pipe, the score will update by 1.
+    /// </summary>
+    /// <param name="score"></param>
     public void UpdateScore(int score)
     {
         ScoreText.text = "Score: " + score.ToString();
     }
 
+    /// <summary>
+    /// When game begins, show the the Start screen and no other screen
+    /// </summary>
     public void ShowStart()
     {
         StartScreen.SetActive(true);
         ReadyScreen.SetActive(false);
         GameOverScreen.SetActive(false);
         ScoreUI.SetActive(false);
-    }
-
-    public void HideStart()
-    {
-        StartScreen.SetActive(false);
     }
 
     public void ShowReady()

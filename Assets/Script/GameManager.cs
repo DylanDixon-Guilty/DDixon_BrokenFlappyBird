@@ -40,7 +40,6 @@ public class GameManager : MonoBehaviour
 
     public void ReadyGame()
     {
-        uiManager.HideStart();
         uiManager.ShowReady();
         bird.ResetBird();
         bird.gameObject.SetActive(true);
