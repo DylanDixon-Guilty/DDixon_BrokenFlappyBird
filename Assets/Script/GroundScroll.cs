@@ -4,11 +4,14 @@ public class GroundScroll : MonoBehaviour
 {
     public float scrollSpeed = 2f;
     public float resetPositionX; 
-    public float startPositionX; 
+    public float startPositionX;
 
     void Update()
     {
-        transform.Translate(Vector2.left * scrollSpeed * Time.deltaTime);
+        if(Bird.IsAlive)
+        {
+            transform.Translate(Vector2.left * scrollSpeed * Time.deltaTime);
+        }
 
         if (transform.position.x <= resetPositionX)
         {
