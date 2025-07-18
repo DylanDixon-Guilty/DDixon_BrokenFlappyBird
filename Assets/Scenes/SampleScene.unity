@@ -1851,12 +1851,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eeda3dc204fe65e4a8668410db7626da, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  audioPlayer: {fileID: 1333864056}
-  dieAudio: {fileID: 8300000, guid: 799c15fb6344d9346b86177d75a41ca9, type: 3}
-  hitAudio: {fileID: 8300000, guid: a9990a7cfaf205a4e99390b559fd8c37, type: 3}
-  pointAudio: {fileID: 8300000, guid: e79c03398a224d64ea0f2a3141620b25, type: 3}
-  swooshingAudio: {fileID: 8300000, guid: 2a778e779a03c68478800ff75c172464, type: 3}
-  wingAudio: {fileID: 8300000, guid: 4ac3404ec0174c84f96d651d644bbc21, type: 3}
+  AudioPlayer: {fileID: 1333864056}
+  DieAudio: {fileID: 8300000, guid: 799c15fb6344d9346b86177d75a41ca9, type: 3}
+  HitAudio: {fileID: 8300000, guid: a9990a7cfaf205a4e99390b559fd8c37, type: 3}
+  SwooshingAudio: {fileID: 8300000, guid: 2a778e779a03c68478800ff75c172464, type: 3}
+  WingAudio: {fileID: 8300000, guid: 4ac3404ec0174c84f96d651d644bbc21, type: 3}
   maxJumpVelocity: 5
   maxUpwardAngle: 45
   maxDownwardAngle: -90
@@ -2186,7 +2185,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Score:'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 50af6a46b1dc5d842b98f3e710f9ba9a, type: 2}
   m_sharedMaterial: {fileID: 5514454305354278017, guid: 50af6a46b1dc5d842b98f3e710f9ba9a, type: 2}
@@ -2416,13 +2415,13 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.5
   m_Pitch: 1
   Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 120
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -3086,6 +3085,8 @@ MonoBehaviour:
   bird: {fileID: 1126978222}
   pipeSpawner: {fileID: 2077817621}
   uiManager: {fileID: 2077817620}
+  AudioSource: {fileID: 1333864056}
+  PointAudio: {fileID: 8300000, guid: e79c03398a224d64ea0f2a3141620b25, type: 3}
 --- !u!4 &2077817619
 Transform:
   m_ObjectHideFlags: 0

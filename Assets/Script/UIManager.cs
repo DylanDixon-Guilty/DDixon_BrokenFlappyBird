@@ -13,7 +13,6 @@ public class UIManager : MonoBehaviour
     /// <summary>
     /// When passing through a Pipe, the score will update by 1.
     /// </summary>
-    /// <param name="score"></param>
     public void UpdateScore(int score)
     {
         ScoreText.text = score.ToString();
@@ -30,6 +29,9 @@ public class UIManager : MonoBehaviour
         ScoreUI.SetActive(false);
     }
 
+    /// <summary>
+    /// When player presses Start show the ReadyScreen and no other screen
+    /// </summary>
     public void ShowReady()
     {
         StartScreen.SetActive(false);
@@ -37,12 +39,18 @@ public class UIManager : MonoBehaviour
         GameOverScreen.SetActive(false);
     }
 
+    /// <summary>
+    /// When player presses the Tap button, show ScoreUI and no other screen
+    /// </summary>
     public void HideReady()
     {
         ReadyScreen.SetActive(false);
         ScoreUI.SetActive(true);
     }
 
+    /// <summary>
+    /// When player dies, show GameOver Screen
+    /// </summary>
     public void ShowGameOver()
     {
         GameOverScreen.SetActive(true);
