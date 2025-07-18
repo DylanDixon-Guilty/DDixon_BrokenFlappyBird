@@ -63,6 +63,6 @@ public class GameManager : MonoBehaviour
     public void IncreaseScore()
     {
         score++;
-        uiManager.UpdateScore(10);
+        uiManager.UpdateScore(score);
     }
 }
