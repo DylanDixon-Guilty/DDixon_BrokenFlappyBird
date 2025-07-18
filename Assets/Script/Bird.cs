@@ -18,6 +18,7 @@ public class Bird : MonoBehaviour
     
     private void Awake()
     {
+
     }
 
     void Start()
