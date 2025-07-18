@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: b9a8b903fdb79994f85cd50d3ca53a9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6349052984994949243
+    second: ACC_GDAMG_Horz_Color_0
+  - first:
+      213: -6079502592420150226
+    second: ACC_GDAMG_Horz_Color_1
+  - first:
+      213: 8776127145452254068
+    second: ACC_GDAMG_Horz_Color_2
+  - first:
+      213: -1035627310461148543
+    second: ACC_GDAMG_Horz_Color_3
+  - first:
+      213: -2720690868445139742
+    second: ACC_GDAMG_Horz_Color_4
+  - first:
+      213: 9041355837161466333
+    second: ACC_GDAMG_Horz_Color_5
+  - first:
+      213: 3714796681869820772
+    second: ACC_GDAMG_Horz_Color_6
+  - first:
+      213: -2568226460164737965
+    second: ACC_GDAMG_Horz_Color_7
+  - first:
+      213: -1348697223067614031
+    second: ACC_GDAMG_Horz_Color_8
+  - first:
+      213: 865968055165200653
+    second: ACC_GDAMG_Horz_Color_9
+  - first:
+      213: -7438035804328549430
+    second: ACC_GDAMG_Horz_Color_10
+  - first:
+      213: 4889650613654064943
+    second: ACC_GDAMG_Horz_Color_11
+  - first:
+      213: 3080630754103349783
+    second: ACC_GDAMG_Horz_Color_12
+  - first:
+      213: -3274754632367794552
+    second: ACC_GDAMG_Horz_Color_13
+  - first:
+      213: -6995337595974467133
+    second: ACC_GDAMG_Horz_Color_14
+  - first:
+      213: 268249647941938557
+    second: ACC_GDAMG_Horz_Color_15
+  - first:
+      213: 335049558072910523
+    second: ACC_GDAMG_Horz_Color_16
+  - first:
+      213: 9072254863050105536
+    second: ACC_GDAMG_Horz_Color_17
+  - first:
+      213: -7663269253160362128
+    second: ACC_GDAMG_Horz_Color_18
+  - first:
+      213: -6866875077759825240
+    second: ACC_GDAMG_Horz_Color_19
+  - first:
+      213: -3879029746377046238
+    second: ACC_GDAMG_Horz_Color_20
+  - first:
+      213: 2410652018218978576
+    second: ACC_GDAMG_Horz_Color_21
+  - first:
+      213: 5061960866903770603
+    second: ACC_GDAMG_Horz_Color_22
+  - first:
+      213: 5413338834446628232
+    second: ACC_GDAMG_Horz_Color_23
+  - first:
+      213: -5125325476429557269
+    second: ACC_GDAMG_Horz_Color_24
+  - first:
+      213: -5666101879688235322
+    second: ACC_GDAMG_Horz_Color_25
+  - first:
+      213: 4116343393096360193
+    second: ACC_GDAMG_Horz_Color_26
+  - first:
+      213: -9170206399184525559
+    second: ACC_GDAMG_Horz_Color_27
+  - first:
+      213: 6939128881805672287
+    second: ACC_GDAMG_Horz_Color_28
+  - first:
+      213: -7360887167515963467
+    second: ACC_GDAMG_Horz_Color_29
+  - first:
+      213: 502971101231255083
+    second: ACC_GDAMG_Horz_Color_30
+  - first:
+      213: 6667083594303692340
+    second: ACC_GDAMG_Horz_Color_31
+  - first:
+      213: -3459318806660148079
+    second: ACC_GDAMG_Horz_Color_32
+  - first:
+      213: 40047089349895055
+    second: ACC_GDAMG_Horz_Color_33
+  - first:
+      213: 6332499760304542933
+    second: ACC_GDAMG_Horz_Color_34
+  - first:
+      213: -7824206564424088705
+    second: ACC_GDAMG_Horz_Color_35
+  - first:
+      213: -6577759426680411634
+    second: ACC_GDAMG_Horz_Color_36
+  - first:
+      213: 533317074230309192
+    second: ACC_GDAMG_Horz_Color_37
+  - first:
+      213: 1690568058719383800
+    second: ACC_GDAMG_Horz_Color_38
+  - first:
+      213: 734932936207775150
+    second: ACC_GDAMG_Horz_Color_39
+  - first:
+      213: -1041429874962865692
+    second: ACC_GDAMG_Horz_Color_40
+  - first:
+      213: -511307117073877645
+    second: ACC_GDAMG_Horz_Color_41
+  - first:
+      213: 3563063247473873147
+    second: ACC_GDAMG_Horz_Color_42
+  - first:
+      213: 858879937869434538
+    second: ACC_GDAMG_Horz_Color_43
+  - first:
+      213: -8043962539446734043
+    second: ACC_GDAMG_Horz_Color_44
+  - first:
+      213: -7514778561136281162
+    second: ACC_GDAMG_Horz_Color_45
+  - first:
+      213: 8137438376577644332
+    second: ACC_GDAMG_Horz_Color_46
+  - first:
+      213: 2187982902712574280
+    second: ACC_GDAMG_Horz_Color_47
+  - first:
+      213: 2862033123242524307
+    second: ACC_GDAMG_Horz_Color_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 172
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e1c61d0e5c1850800000000000000
+      internalID: 6349052984994949243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 284
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e240bbf4a9441aba0800000000000000
+      internalID: -6079502592420150226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 58
+        width: 252
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473385014211bc970800000000000000
+      internalID: 8776127145452254068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 66
+        width: 241
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1822548b276b0a1f0800000000000000
+      internalID: -1035627310461148543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_4
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 61
+        width: 206
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecadaae11a2e3ad0800000000000000
+      internalID: -2720690868445139742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_5
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 61
+        width: 206
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9e9e11b39597d70800000000000000
+      internalID: 9041355837161466333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_6
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 9
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46386ab76eb9d8330800000000000000
+      internalID: 3714796681869820772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_7
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 206
+        width: 88
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3543f1b34a3db5cd0800000000000000
+      internalID: -2568226460164737965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_8
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 208
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4cf757507784de0800000000000000
+      internalID: -1348697223067614031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_9
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 208
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0925faab59840c00800000000000000
+      internalID: 865968055165200653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_10
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 208
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac32c5828d9c6c890800000000000000
+      internalID: -7438035804328549430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_11
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 208
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f0f9e93578bd340800000000000000
+      internalID: 4889650613654064943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_12
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 208
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7125976595990ca20800000000000000
+      internalID: 3080630754103349783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_13
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 207
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8861723230cbd82d0800000000000000
+      internalID: -3274754632367794552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_14
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 208
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1c104f4819bee90800000000000000
+      internalID: -6995337595974467133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_15
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 208
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7de3b032a309b300800000000000000
+      internalID: 268249647941938557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_16
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 206
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb266134cc556a400800000000000000
+      internalID: 335049558072910523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_17
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 208
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c269e72bbf17ed70800000000000000
+      internalID: 9072254863050105536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_18
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 208
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f143b473996a590800000000000000
+      internalID: -7663269253160362128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_19
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 208
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8421cf75f3b0a0800000000000000
+      internalID: -6866875077759825240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_20
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 208
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227c5066ffaea2ac0800000000000000
+      internalID: -3879029746377046238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_21
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 208
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d45070d3b547120800000000000000
+      internalID: 2410652018218978576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_22
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 208
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be54abac692bf3640800000000000000
+      internalID: 5061960866903770603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_23
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 208
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885b4042dfa002b40800000000000000
+      internalID: 5413338834446628232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_24
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 208
+        width: 19
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1182362af2fd8b0800000000000000
+      internalID: -5125325476429557269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_25
+      rect:
+        serializedVersion: 2
+        x: 2984
+        y: 208
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c672085c56fd51b0800000000000000
+      internalID: -5666101879688235322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_26
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 208
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101e807b180302930800000000000000
+      internalID: 4116343393096360193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_27
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 208
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907a793add1ecb080800000000000000
+      internalID: -9170206399184525559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_28
+      rect:
+        serializedVersion: 2
+        x: 3283
+        y: 208
+        width: 19
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f3ea2f3fcbc4060800000000000000
+      internalID: 6939128881805672287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_29
+      rect:
+        serializedVersion: 2
+        x: 3323
+        y: 206
+        width: 97
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfca7cee10e8d990800000000000000
+      internalID: -7360887167515963467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_30
+      rect:
+        serializedVersion: 2
+        x: 3441
+        y: 208
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e0d2d3d89eaf600800000000000000
+      internalID: 502971101231255083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_31
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 189
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e5e4e843d368c50800000000000000
+      internalID: 6667083594303692340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_32
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 189
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1949134afd70effc0800000000000000
+      internalID: -3459318806660148079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_33
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 34
+        width: 267
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f832df69d964e8000800000000000000
+      internalID: 40047089349895055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_34
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 69
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4d2312bfe81e750800000000000000
+      internalID: 6332499760304542933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_35
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 70
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7309368595da6390800000000000000
+      internalID: -7824206564424088705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_36
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 69
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aacb2e6aa17b4a0800000000000000
+      internalID: -6577759426680411634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_37
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 70
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841f52aad09b66700800000000000000
+      internalID: 533317074230309192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_38
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 70
+        width: 19
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0379041ba167710800000000000000
+      internalID: 1690568058719383800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 69
+        width: 97
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea536649c91033a00800000000000000
+      internalID: 734932936207775150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_40
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 70
+        width: 81
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1eb54eb091c81f0800000000000000
+      internalID: -1041429874962865692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_41
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 69
+        width: 88
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375bea3d2e877e8f0800000000000000
+      internalID: -511307117073877645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_42
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 70
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf01ee9452b827130800000000000000
+      internalID: 3563063247473873147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_43
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 70
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeca61c0ca5beb00800000000000000
+      internalID: 858879937869434538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_44
+      rect:
+        serializedVersion: 2
+        x: 2194
+        y: 70
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237ab960ba1e5090800000000000000
+      internalID: -8043962539446734043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_45
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 70
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b930c1b6b426b790800000000000000
+      internalID: -7514778561136281162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_46
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 70
+        width: 19
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27ba89e61dfde070800000000000000
+      internalID: 8137438376577644332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_47
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 69
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841afca8bd64d5e10800000000000000
+      internalID: 2187982902712574280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ACC_GDAMG_Horz_Color_48
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 69
+        width: 73
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39eb54e36fbf7b720800000000000000
+      internalID: 2862033123242524307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ACC_GDAMG_Horz_Color_0: 6349052984994949243
+      ACC_GDAMG_Horz_Color_1: -6079502592420150226
+      ACC_GDAMG_Horz_Color_10: -7438035804328549430
+      ACC_GDAMG_Horz_Color_11: 4889650613654064943
+      ACC_GDAMG_Horz_Color_12: 3080630754103349783
+      ACC_GDAMG_Horz_Color_13: -3274754632367794552
+      ACC_GDAMG_Horz_Color_14: -6995337595974467133
+      ACC_GDAMG_Horz_Color_15: 268249647941938557
+      ACC_GDAMG_Horz_Color_16: 335049558072910523
+      ACC_GDAMG_Horz_Color_17: 9072254863050105536
+      ACC_GDAMG_Horz_Color_18: -7663269253160362128
+      ACC_GDAMG_Horz_Color_19: -6866875077759825240
+      ACC_GDAMG_Horz_Color_2: 8776127145452254068
+      ACC_GDAMG_Horz_Color_20: -3879029746377046238
+      ACC_GDAMG_Horz_Color_21: 2410652018218978576
+      ACC_GDAMG_Horz_Color_22: 5061960866903770603
+      ACC_GDAMG_Horz_Color_23: 5413338834446628232
+      ACC_GDAMG_Horz_Color_24: -5125325476429557269
+      ACC_GDAMG_Horz_Color_25: -5666101879688235322
+      ACC_GDAMG_Horz_Color_26: 4116343393096360193
+      ACC_GDAMG_Horz_Color_27: -9170206399184525559
+      ACC_GDAMG_Horz_Color_28: 6939128881805672287
+      ACC_GDAMG_Horz_Color_29: -7360887167515963467
+      ACC_GDAMG_Horz_Color_3: -1035627310461148543
+      ACC_GDAMG_Horz_Color_30: 502971101231255083
+      ACC_GDAMG_Horz_Color_31: 6667083594303692340
+      ACC_GDAMG_Horz_Color_32: -3459318806660148079
+      ACC_GDAMG_Horz_Color_33: 40047089349895055
+      ACC_GDAMG_Horz_Color_34: 6332499760304542933
+      ACC_GDAMG_Horz_Color_35: -7824206564424088705
+      ACC_GDAMG_Horz_Color_36: -6577759426680411634
+      ACC_GDAMG_Horz_Color_37: 533317074230309192
+      ACC_GDAMG_Horz_Color_38: 1690568058719383800
+      ACC_GDAMG_Horz_Color_39: 734932936207775150
+      ACC_GDAMG_Horz_Color_4: -2720690868445139742
+      ACC_GDAMG_Horz_Color_40: -1041429874962865692
+      ACC_GDAMG_Horz_Color_41: -511307117073877645
+      ACC_GDAMG_Horz_Color_42: 3563063247473873147
+      ACC_GDAMG_Horz_Color_43: 858879937869434538
+      ACC_GDAMG_Horz_Color_44: -8043962539446734043
+      ACC_GDAMG_Horz_Color_45: -7514778561136281162
+      ACC_GDAMG_Horz_Color_46: 8137438376577644332
+      ACC_GDAMG_Horz_Color_47: 2187982902712574280
+      ACC_GDAMG_Horz_Color_48: 2862033123242524307
+      ACC_GDAMG_Horz_Color_5: 9041355837161466333
+      ACC_GDAMG_Horz_Color_6: 3714796681869820772
+      ACC_GDAMG_Horz_Color_7: -2568226460164737965
+      ACC_GDAMG_Horz_Color_8: -1348697223067614031
+      ACC_GDAMG_Horz_Color_9: 865968055165200653
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
