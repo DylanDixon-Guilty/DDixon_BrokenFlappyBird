@@ -3131,7 +3131,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Pipeprefab: {fileID: 8895835194987703811, guid: 1ba1edbadf2e9b445a570241889d50da, type: 3}
-  spawnRate: 3
+  spawnRate: 2
   randomHeight: 1
   PipeTransform: {fileID: 1689678197}
 --- !u!1 &2110664486

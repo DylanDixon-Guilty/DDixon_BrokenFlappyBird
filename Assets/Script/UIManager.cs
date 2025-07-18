@@ -16,7 +16,7 @@ public class UIManager : MonoBehaviour
     /// <param name="score"></param>
     public void UpdateScore(int score)
     {
-        ScoreText.text = "Score: " + score.ToString();
+        ScoreText.text = score.ToString();
     }
 
     /// <summary>
