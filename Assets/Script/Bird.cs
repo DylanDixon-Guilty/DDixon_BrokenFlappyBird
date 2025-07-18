@@ -28,17 +28,12 @@ public class Bird : MonoBehaviour
     {
         if (IsAlive)
         {
-            if (Input.GetButton("Jump") || Input.GetButton("Fire1"))
+            if (Input.GetButtonDown("Jump") || Input.GetButtonDown("Fire1"))
             {
                 Jump();
             }
             RotateBasedOnVelocity();
         }
-    }
-
-    private void ResetJumpTrigger()
-    {
-        birdAnimator.ResetTrigger("Jump");
     }
 
     private void Jump()
