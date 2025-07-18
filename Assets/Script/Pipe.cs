@@ -14,6 +14,7 @@ public class Pipe : MonoBehaviour
         {
             scored = true;
             GameManager.Instance.IncreaseScore();
+            scored = false;
         }
 
         if (transform.position.x < destroyX)

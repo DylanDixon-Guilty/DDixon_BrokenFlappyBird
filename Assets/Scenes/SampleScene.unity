@@ -336,8 +336,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.8, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.2999878, y: 1.9000015}
-  m_SizeDelta: {x: -14, y: -18}
+  m_AnchoredPosition: {x: -297.26788, y: 1.9000015}
+  m_SizeDelta: {x: -130.6357, y: -18}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &513800175
 Animator:
@@ -1563,9 +1563,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 2077817618}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: ReadyGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1765,7 +1765,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!222 &1316777440
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2007,7 +2007,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1661459961
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2248,10 +2248,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e184998de6fc6de44a8fa51a7cee0034, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefab: {fileID: 8895835194987703811, guid: 1ba1edbadf2e9b445a570241889d50da, type: 3}
+  Pipeprefab: {fileID: 8895835194987703811, guid: 1ba1edbadf2e9b445a570241889d50da, type: 3}
   spawnRate: 5
-  randomVariable: 1
-  wherewewanttheprefabtostart: {fileID: 1689678197}
+  randomHeight: 1
+  PipeTransform: {fileID: 1689678197}
 --- !u!1 &2110664486
 GameObject:
   m_ObjectHideFlags: 0
