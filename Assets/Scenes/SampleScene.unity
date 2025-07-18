@@ -1565,7 +1565,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 2077817618}
         m_TargetAssemblyTypeName: GameManager, Assembly-CSharp
-        m_MethodName: ReadyGame
+        m_MethodName: ResetGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1670,7 +1670,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: 'Score:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 50af6a46b1dc5d842b98f3e710f9ba9a, type: 2}
   m_sharedMaterial: {fileID: 5514454305354278017, guid: 50af6a46b1dc5d842b98f3e710f9ba9a, type: 2}
@@ -1765,7 +1765,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!222 &1316777440
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2007,7 +2007,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1661459961
 RectTransform:
   m_ObjectHideFlags: 0

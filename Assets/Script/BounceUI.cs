@@ -3,8 +3,8 @@ using UnityEngine;
 
 public class BounceUI : MonoBehaviour
 {
-    public float bounceHeight = 50f;        
-    public float bounceDuration = 0.5f;     
+    public float bounceHeight;
+    public float bounceDuration;
 
     private RectTransform rectTransform;
     private Vector2 startAnchoredPos;
