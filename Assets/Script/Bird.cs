@@ -7,6 +7,12 @@ public class Bird : MonoBehaviour
     private Animator birdAnimator;
     private Vector3 initialBirdPosition;
     private Quaternion initialBirdRotation;
+    [SerializeField] private AudioSource audioPlayer;
+    [SerializeField] private AudioClip dieAudio;
+    [SerializeField] private AudioClip hitAudio;
+    [SerializeField] private AudioClip pointAudio;
+    [SerializeField] private AudioClip swooshingAudio;
+    [SerializeField] private AudioClip wingAudio; // The sound when the player jumps
 
     public static bool IsAlive = false;
     public float maxJumpVelocity = 5f;
